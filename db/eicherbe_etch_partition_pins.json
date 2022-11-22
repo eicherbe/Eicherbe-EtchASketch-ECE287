@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "vga_output_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[8]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[9]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[10]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[11]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[12]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[13]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[14]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[15]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[16]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[17]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[18]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[19]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[20]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[21]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[22]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[23]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[24]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[25]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[26]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[27]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_output_data[28]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "memSelect[1]",
+					"strict" : false
+				},
+				{
+					"name" : "memSelect[0]",
+					"strict" : false
+				},
+				{
+					"name" : "wren",
+					"strict" : false
+				},
+				{
+					"name" : "down",
+					"strict" : false
+				},
+				{
+					"name" : "up",
+					"strict" : false
+				},
+				{
+					"name" : "right",
+					"strict" : false
+				},
+				{
+					"name" : "left",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

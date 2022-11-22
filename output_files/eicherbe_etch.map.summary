@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Nov 22 13:42:12 2022
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : eicherbe_etch
+Top-level Entity Name : eicherbe_etch
+Family : Cyclone IV E
+Total logic elements : 179
+    Total combinational functions : 152
+    Dedicated logic registers : 101
+Total registers : 101
+Total pins : 38
+Total virtual pins : 0
+Total memory bits : 49,152
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
